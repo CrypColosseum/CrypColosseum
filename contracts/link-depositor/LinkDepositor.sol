@@ -70,3 +70,4 @@ contract LinkDepositor {
         emit LinkDeposited(amounts[0]);
     }
 }
+
