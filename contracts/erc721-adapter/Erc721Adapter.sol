@@ -92,4 +92,3 @@ contract Erc721Adapter is IErc721Adapter {
         return string(abi.encodePacked("g", _string));
     }
 }
-
