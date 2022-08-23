@@ -17,4 +17,3 @@ contract Erc721AdapterFactory {
 
 
 
-
