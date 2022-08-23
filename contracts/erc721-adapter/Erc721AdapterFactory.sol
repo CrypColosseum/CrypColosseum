@@ -12,4 +12,3 @@ contract Erc721AdapterFactory {
         return erc721Adapter;
     }
 }
-
